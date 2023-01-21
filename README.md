@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @asharmacali
+- 👋 Hi, I’m @asharmacali . My life = f (product leadership, husband, dad, amateur musician)
 - 👀 I’m interested in AI, Bitcoin, Personal Data - with some hypotheses on how the three are strongly related
-- 🌱 I’m currently building products and teams in Silicon Vallery
+- 🌱 I’m currently building products and teams in Silicon Valley
 
 
 <!---
